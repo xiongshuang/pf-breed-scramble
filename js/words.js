@@ -1,3 +1,5 @@
+//need a hint for every breed....maybe
+
 let words = [
     {
         word: "Abbot Cat",

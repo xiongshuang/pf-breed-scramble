@@ -1,3 +1,5 @@
+//hi, bearfrost here. i have no idea what most of this does so don't ask me anything i don't know.
+
 const wordText = document.querySelector(".word"),
 hintText = document.querySelector(".hint span"),
 timeText = document.querySelector(".time b"),
